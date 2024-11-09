@@ -1,0 +1,9 @@
+meme_dict = {
+            "CRINGE": "Algo excepcionalmente raro o embarazoso",
+            "LOL": "Una respuesta común a algo gracioso",
+            "ESTUPIDO": "Una respuesta sin sentido",
+            "ME QUEDE AJI": "QUE PASO VERGUENZA O SE SORPRENDIO",
+            }
+
+word = input("Escribe una palabra que no entiendas (¡con mayúsculas!): ")
+print(meme_dict[word])
